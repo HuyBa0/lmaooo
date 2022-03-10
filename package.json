@@ -1,0 +1,43 @@
+{
+  "name": "canhsatbot-discordjs13",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/opus": "^0.7.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@discordjs/voice": "^0.6.0",
+    "@distube/soundcloud": "^1.1.0",
+    "@distube/spotify": "^1.1.0",
+    "@distube/ytdl-core": "^4.10.0",
+    "abort-controller": "^3.0.0",
+    "ascii-table": "^0.0.9",
+    "avconv": "^3.1.0",
+    "common-tags": "^1.8.2",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.6.0",
+    "discordjs-button-pagination": "^1.0.7",
+    "distube": "^3.0.1",
+    "dotenv": "^10.0.0",
+    "event-target-shim": "^5.0.1",
+    "ffmpeg-static": "^4.4.0",
+    "form-data": "^4.0.0",
+    "google-tts-api": "^2.0.2",
+    "image-js": "^0.33.1",
+    "imageapi.js": "^1.7.0",
+    "libsodium-wrappers": "^0.7.9",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "update": "^0.7.4",
+    "weather-js": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ba0",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
